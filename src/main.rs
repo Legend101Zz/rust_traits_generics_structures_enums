@@ -74,3 +74,6 @@ fn main(){
 
              println!("{:?}", person1.info())
 }
+
+
+// added notes
